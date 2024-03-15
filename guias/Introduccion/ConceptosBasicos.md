@@ -1,30 +1,29 @@
 ## Conceptos Basicos
 
-### Getting Started
-First, you have to find your way to the editor. On the main menu, click the right button, and then click "Create" in the top left. This brings you to the screen in figure 1.1, which is your list of custom levels. Note that levels here are not public, but rather custom levels saved locally on your account. Public levels are accessed through the bottom left button. More on that later. To start a new level, do as the text says and click "New" in the bottom right.
+### Introducción
+Primero que todo, necesitas encontrar el editor. En el menú principal, pulsa el botón de la derecha, y después a "Create", arriba a la izquierda. Te llevará a la pantalla del ejemplo 1.1, la cuál es tu lista de niveles personalizados. Nótese que los niveles acá no son públicos, mas tus niveles guardados en tu cuenta. Los niveles públicos se acceden a través del botón de abajo a la izquierda. Pero eso vendrá después. Para empezar un nuevo nivel, haz lo que el texto mostrado te diga y pulsa "New" abajo a tu derecha.
 
 ![](https://guia.editorgd.xyz/assets/img/figures/1.png)
-*Figure 1.1: Your local custom levels.*<br>
+*Figura 1.1: Tus niveles locales.*<br>
 
 ![](https://guia.editorgd.xyz/assets/img/figures/2.png)
-*Figure 1.2: Starting a new level.*<br>
+*Figura 1.2: Comenzando un nuevo nivel.*<br>
 
-At the top, you can set a level name and an optional description. The button in the middle lets you play the level, while the right button is where you share the level with others through the servers. To start editing, click the left button. This brings you into the editor itself
-
+Arriba, puedes ponerle a tu nivel un nombre cualquiera y una descripción opcional. El botón de al medio sirve para jugarlo, mientras que el otro sirve para cargarlo a los servidores, así los demás lo pueden jugar. Para editarlo, presiona el botón de la izquierda. Te llevará al editor en sí.
 ![](https://guia.editorgd.xyz/assets/img/figures/3.png)
-*Figure 1.3: The editor with the default settings.*<br>
+*Figura 1.3: El editor con los ajustes de fábrica.*<br>
 
-### Level Settings
-A good place to start is the main level settings, which are accessed by clicking the gear button in the top right corner of the editor. This opens the window seen below.
+### Ajustes del nivel
+Un buen punto de partida son los ajustes del nivel, donde se pueden acceder pulsando el engranaje arriba a la derecha. Esto abre el panel demostrado abajo.
 
 ![](https://guia.editorgd.xyz/assets/img/figures/4.png)
-*Figure 1.4: The main level settings.*<br>
+*Figura 1.4: Los ajustes generales del nivel.*<br>
 
-These settings decide the level's starting state. This means that they define what a player sees at the start of their attempt. Many of these settings, such as Speed, Game Mode, and colors, can be changed inside the level itself too. This allows you to change them further into the level. Going through each option in figure 1.4 in turn, we have:
+Estos ajustes deciden cómo empezará el nivel. Significa que todo esto definirá el estado del nivel al abrirse. Varios de estos ajustes, como la Velocidad, Modo de Juego, y colores, pueden ser cambiados dentro del nivel en cualquier punto. GRecorriendo por cada opción vista en la figura 1.4, tenemos el/la:
 
-- **Game Type:** This is perhaps the most important option to decide on, as it changes how your level plays completely. It cannot be changed throughout the level.
-    - Classic is the original way to play Geometry Dash  levels, in which the camera automatically scrolls to the side. To beat the level, the player has to avoid obstacles to make it all the way to the end of the level. This is done by clicking to change their vertical position in different ways depending on the Game Mode. For example, in the most simple mode, Cube, you jump by clicking, while something like Wave moves your icon diagonally from holding.
-    - Platformer is the newest Game Type, and as the name implies, it lets the player move around freely. You can click to move left or right as you please, and another input allows jumping. How exactly the inputs work depend on the device you are playing on.
+- **Modalidad de juego:** Esta es, probablemente, la opción más importante, debido a que cambia cómo se juega tu creación y NO se puede cambiar durante el nivel.
+    - El modo clásico es tu Geometry Dash de siempre, en donde la cámara se desplaza autómaticamente hacia los lados. Para completar un nivel, el jugador debe sortear todos los obstáculos por haber y llegar a la meta. Esto se hace pulsando la pantalla para cambair tu posición vertical de diferentes maneras dependiendo del Modo de Juego. Por ejemplo, en el modo más simple, Cubo, saltas al presionar, mientras que el Wave te mueve diagonalmente hacia arriba o abajo si mantienes pulsado o no.
+    - El modo plataforma es la novedad del juego, y como su nombre implica, le permite al jugador moverse independientemente. Además de saltar, puedes ir hacia la izquierda o a la derecha. Cómo funcione el mapeo de controles dependerá del dispositivo en el que se juegue.
 
 ![](https://guia.editorgd.xyz/assets/img/figures/5.png)
 *Figure 1.5: The different speed options.*<br>
